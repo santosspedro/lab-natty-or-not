@@ -1,51 +1,19 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Criação de música com IA generativa
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O obejtivo deste projeto foi a utilização de IAs generativas para criação de conteúdos que sejam o mais realista possível.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Suno AI : Criação de música
+- Canva : Criação de Capa da música
+- ChatGPT : Criação de letra da música
+- Capcut - Edição de áudio e vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Logo no início do desafio, tive dificuldades para achar IAs que conseguissem criar conteúdos não tão robotizados, contudo, após uma pesquisa, foi possível encontra a ferramenta SUNO AI. Com ela é possível a criação de qualquer música instantaneamente. Para gerar a letra que a SUNO utilizaria, fui no ChatGPT e pedi para que ele criasse uma letra de música POP, com a letra em mãos, dei o comando a SUNO de criação de musica "Chill POP". Após o resultado, já corri pro Canva para utilizar a ferramanta dele de criação de imagem, dei o comando "a person looking at the sea, at night, with the full moon and clouds around", e ele rapidamente me gerou. Com a música e a capa em mãos, fui pro Capcut para junta-los e resolver qualquer problema no audio. Assim que eu inventei a música "Waves of Time" da cantora T(AI)LOR.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
