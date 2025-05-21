@@ -1,7 +1,7 @@
 Criação de música com IA generativa
 
 ## 📒 Descrição
-O obejtivo deste projeto foi a utilização de IAs generativas para criação de conteúdos que sejam o mais realista possível.
+O objetivo deste projeto foi a utilização de IAs generativas para criação de conteúdos que sejam o mais realista possível.
 
 ## 🤖 Tecnologias Utilizadas
 - Suno AI : Criação de música
@@ -10,7 +10,7 @@ O obejtivo deste projeto foi a utilização de IAs generativas para criação de
 - Capcut - Edição de áudio e vídeo.
 
 ## 🧐 Processo de Criação
-Logo no início do desafio, tive dificuldades para achar IAs que conseguissem criar conteúdos não tão robotizados, contudo, após uma pesquisa, foi possível encontra a ferramenta SUNO AI. Com ela é possível a criação de qualquer música instantaneamente. Para gerar a letra que a SUNO utilizaria, fui no ChatGPT e pedi para que ele criasse uma letra de música POP, com a letra em mãos, dei o comando a SUNO de criação de musica "Chill POP". Após o resultado, já corri pro Canva para utilizar a ferramanta dele de criação de imagem, dei o comando "a person looking at the sea, at night, with the full moon and clouds around", e ele rapidamente me gerou. Com a música e a capa em mãos, fui pro Capcut para junta-los e resolver qualquer problema no audio. Assim que eu inventei a música "Waves of Time" da cantora T(AI)LOR.
+No início do meu projeto, encontrei dificuldades em achar IAs que gerassem conteúdos mais naturais e menos robotizados. No entanto, após algumas pesquisas, descobri a ferramenta SUNO AI, que permite criar músicas instantaneamente. Para gerar a letra que a SUNO utilizaria, eu pedi ao ChatGPT que escrevesse uma letra de música POP. Com a letra em mãos, comandei a SUNO para criar uma música no estilo "Chill POP". Após obter o resultado, fui ao Canva para criar a capa da música, dando o comando "uma pessoa olhando para o mar à noite, com a lua cheia e nuvens ao redor", e ele gerou a imagem rapidamente. Com a música e a capa prontas, fui para o Capcut para juntá-las e ajustar qualquer problema no áudio. Assim, nasceu a música "Waves of Time" da artista T(AI)LOR.
 
 ## 🚀 Resultados
 
@@ -18,4 +18,4 @@ https://github.com/santosspedro/lab-natty-or-not/assets/163769671/297bd5e8-e0e3-
 
 
 ## 💭 Reflexão (Opcional)
-Por mais que as IAs tem avançado rapidamente, ainda sim, há uma dificulade na criação de conteúdos naturais. É fácil perceber uma voz não real, ou vídeo gerado por IA, pois há um padrão robotizado ainda, contudo, isso é uma questão de tempo. Por exemplo, a IA Sora, da OpenAI, ela cria vídeos hiperrealistas com uma facilidade. Agora imagina esse IA na mão de pessoas mal-intencionadas... Por isso que antes da liberação dessas IAs, acredito que deva haver uma regulamentação do uso e da distribuição delas, assim, possivelmente evitaria um caos social.
+Apesar dos avanços rápidos das IAs, ainda existe uma dificuldade na produção de conteúdos que soem naturais. É fácil notar uma voz artificial ou um vídeo gerado por IA, devido ao padrão mecânico que ainda persiste. No entanto, isso é apenas uma questão de tempo. Por exemplo, a IA Sora, da OpenAI, tem a capacidade de criar vídeos hiperrealistas com grande facilidade. Agora, imagine essa IA nas mãos de pessoas com intenções maliciosas... Por isso, antes de liberar essas tecnologias, acredito que deve haver uma regulamentação sobre seu uso e distribuição, o que, possivelmente, poderia prevenir um caos social.
